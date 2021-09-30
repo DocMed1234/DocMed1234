@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+DocMed is a Telimedicine AI based Healthcare Application
+
 <!--
 **DocMed1234/DocMed1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
